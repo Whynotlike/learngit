@@ -1,2 +1,3 @@
 First,I learn GIT from Internet.
-Second,T use GIT to deal.
+Second,I use GIT to deal.
+Fell good.
