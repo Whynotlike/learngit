@@ -1,3 +1,0 @@
-I love GIt.
-GIT is a version system.
-GIT is a free software.
