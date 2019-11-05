@@ -3,8 +3,4 @@ fuck you
 man.
 Can I?
 try it.
-<<<<<<< HEAD
 create a new branch futuerl and I
-=======
-create a new branch futurel and I
->>>>>>> futurel
